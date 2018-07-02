@@ -1,0 +1,23 @@
+{
+  "name": "ssl-certificate-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ssl": "./ssl",
+    "clear": "./clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnerCrack/ssl-certificate-factory.git"
+  },
+  "author": "crack <test@text.com> (http://yourblog.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abnerCrack/ssl-certificate-factory/issues"
+  },
+  "homepage": "https://github.com/abnerCrack/ssl-certificate-factory#readme"
+}
